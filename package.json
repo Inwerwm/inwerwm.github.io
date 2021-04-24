@@ -1,0 +1,24 @@
+{
+  "name": "inwerwm.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inwerwm/inwerwm.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inwerwm/inwerwm.github.io/issues"
+  },
+  "homepage": "https://github.com/Inwerwm/inwerwm.github.io#readme",
+  "dependencies": {
+    "next": "^10.1.3",
+    "react-dom": "^17.0.2"
+  }
+}
